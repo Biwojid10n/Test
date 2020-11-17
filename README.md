@@ -1,4 +1,5 @@
 ![PromiseKit](../gh-pages/public/img/logo-tight.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBiwojid10n%2FTest.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FBiwojid10n%2FTest?ref=badge_shield)
 
 [![badge-pod][]][cocoapods] ![badge-languages][] ![badge-pms][] ![badge-platforms][] [![badge-travis][]][travis]
 
@@ -209,3 +210,7 @@ https://tidelift.com/security
 [badge-travis]: https://travis-ci.org/mxcl/PromiseKit.svg?branch=master
 [travis]: https://travis-ci.org/mxcl/PromiseKit
 [cocoapods]: https://cocoapods.org/pods/PromiseKit
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBiwojid10n%2FTest.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FBiwojid10n%2FTest?ref=badge_large)
